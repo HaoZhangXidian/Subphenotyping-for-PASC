@@ -9,7 +9,7 @@ For the real dataset, The INSIGHT data can be requested through https://insightc
 After data preparation from the raw EHR tabel, we can obtain a data matrix with size N*137. N is the number of patients in the corhot, and 137 denotes 137 PASC. This is a binary matrix, where the element in i-th raw, j-th column denotes whether i-th patient has j-th pasc in the post-acute SARS-CoV-2 infection period of COVID-19
 We put the simulated dataset in "https://drive.google.com/file/d/1ZN_hIiDfazCHOGl1GHQMNBXEkwk5a_TH/view?usp=sharing". After downloading, please put it in the the folder: "./dataset/"
 
-{\bf{Step 2 Train the Topic model}}
+Step 2 Train the Topic model
 
 We prepared both Python and Matlab code for training the topic model
 
