@@ -2,7 +2,9 @@
 This demo code is for our manuscript "Machine Learning for Identifying Data-Driven Subphenotypes of Incident Post-Acute SARS-CoV-2 Infection Conditions with Large Scale Electronic Health Records: Findings from the RECOVER"
 
 If there is any questions, please contact: zhanghao.duke@gmail.com
+
 Step 1 Data preparation
+
 Since the privacy of dataset we used in the study, in this demo code, we just provide simulated dataset. 
 For the real dataset, The INSIGHT data can be requested through https://insightcrn.org/. The OneFlorida+ data can be requested through https://onefloridaconsortium.org. Both the INSIGHT and the OneFlorida+ data are HIPAA-limited. Therefore, data use agreements must be established with the INSIGHT and OneFlorida+ networks. 
 
