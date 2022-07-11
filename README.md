@@ -13,7 +13,8 @@ We put the simulated dataset in "https://drive.google.com/file/d/1ZN_hIiDfazCHOG
 
 Step 2 Train the Topic model
 
-We prepared both Python and Matlab code for training the topic model
+We prepared both Python and Matlab code for training the topic model.
+The python code is developed based on the Pydpm package (https://github.com/BoChenGroup/pydpm)
 
 For Python,
 please run "./Python code for training topic modeling/Main_train_topic_model.py"
